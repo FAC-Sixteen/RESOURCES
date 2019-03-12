@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Name:
+Name/GitHub handle:
 
 Quick description of what you need:
 Eg, A GOOD YouTube video explaining how to position stuff in CSS
