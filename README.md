@@ -12,6 +12,7 @@ Because Sharing is CaringTM.
 * HTML
 * CSS
 * Javascript
+* Git/GitHub
 * General design
 * Tools/Generators
 * Miscellaneous
