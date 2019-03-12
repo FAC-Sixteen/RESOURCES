@@ -13,7 +13,7 @@ Because Sharing is CaringTM.
 * CSS
 * Javascript
 * General design
-* Tools
+* Tools/Generators
 * Miscellaneous
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
