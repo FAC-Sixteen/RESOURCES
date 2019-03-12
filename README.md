@@ -9,13 +9,13 @@ Because Sharing is CaringTM.
 
 ## List of categories
 
-* HTML
-* CSS
-* Javascript
-* Git/GitHub
-* General design
-* Tools/Generators
-* Miscellaneous
+* [HTML](https://github.com/FAC-Sixteen/RESOURCES/blob/master/HTML.md)
+* [CSS](https://github.com/FAC-Sixteen/RESOURCES/blob/master/CSS.md)
+* [Javascript](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Javascript.md)
+* [Git/GitHub](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Git%20%26%20GitHub.md)
+* [General design](https://github.com/FAC-Sixteen/RESOURCES/blob/master/General%20design.md)
+* [Tools/Generators](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Tools.md)
+* [Miscellaneous](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Miscellaneous.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
