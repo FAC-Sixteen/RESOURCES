@@ -2,9 +2,7 @@
 
 This repo is a place to store all the wonderful resources we've stumbled across and gushed over.
 
-![sharing is caring](https://media.giphy.com/media/3BMQaxv827kXgDlQcS/source.gif)
-
-Because Sharing is CaringTM.
+Because Sharing is Caring<sup>TM</sup>.
 
 
 ## List of categories
