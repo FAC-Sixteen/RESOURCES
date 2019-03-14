@@ -1,4 +1,4 @@
-# RESOURCES 
+# RESOURCES
 
 This repo is a place to store all the wonderful resources we've stumbled across and gushed over.
 
@@ -14,9 +14,10 @@ Because Sharing is Caring<sup>TM</sup>.
 * [General design](https://github.com/FAC-Sixteen/RESOURCES/blob/master/General%20design.md)
 * [Tools/Generators](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Tools.md)
 * [Miscellaneous](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Miscellaneous.md)
+* [Design Bursts](https://github.com/FAC-Sixteen/RESOURCES/blob/master/design-bursts.md)
+* [External Talks](https://github.com/FAC-Sixteen/RESOURCES/blob/master/external-talks.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
-
 
 ## How to add a resource
 
@@ -40,4 +41,3 @@ In order to keep some semblance of order in this library, please add your resour
 If there is a resource you really think your code and life could benefit from, you can also put out a request to the group brain.
 Just create a new issue, and follow the template.
 If you contribute something to solve an issue, please close it.
-
