@@ -23,5 +23,5 @@
 | NHS HackDay     | 15/6/19     | 16/6/19     | London     | [Link](https://nhshackday.com/)     |
 | Online Courts Hackathon     | 1/7/19     | 2/7/19     | London     | [Link](https://www.onlinecourtshackathon.com/)     |
 
-Sign up Google form below:
+Sign up Google form:
 [Sign up Here](https://forms.gle/2gxBxBuZ7wJkSbEn6)
