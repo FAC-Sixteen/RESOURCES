@@ -15,10 +15,10 @@
 
 | Name | Start Date | End Date | Location | Link |
 | -------- | -------- | -------- | --------- | --------- |
-| Online Courts Hackathon     | 1/7/19     | 2/7/19     | London     | [Link](https://www.onlinecourtshackathon.com/)     |
 | PastNet Hackathon     | 11/5/19     | 11/5/19     | London     | [Link](https://www.eventbrite.co.uk/e/pastnet-hackathon-network-science-of-the-past-tickets-58541996688?aff=ebdssbdestsearch)     |
-| HackXLR8     | 12/6/19     | 13/6/19     | London     | [Link](http://hackxlr8.bemyapp.com/?utm_source=bemyapp.com&utm_medium=referral&utm_campaign=referencing)     |
-| NHS HackDay     | 15/6/19     | 16/6/19     | London     | [Link](https://nhshackday.com/)     |
 | Heritage Science Hackathon    | 18/5/19     | 19/5/2019     | London     | [Link](https://www.ucl.ac.uk/bartlett/heritage/events/2019/may/heritage-science-hackathon)     |
 | Finastra Hackathon    | 17/5/19     | 19/5/19     | London     | [Link](https://www.fintechtalents.com/hackathon-finastra/)     |
 | AngelHack    | TBC (June)     | TBC (June)     | London     | [Link](https://angelhack.com/global-hackathon-series/#cities)     |
+| HackXLR8     | 12/6/19     | 13/6/19     | London     | [Link](http://hackxlr8.bemyapp.com/?utm_source=bemyapp.com&utm_medium=referral&utm_campaign=referencing)     |
+| NHS HackDay     | 15/6/19     | 16/6/19     | London     | [Link](https://nhshackday.com/)     |
+| Online Courts Hackathon     | 1/7/19     | 2/7/19     | London     | [Link](https://www.onlinecourtshackathon.com/)     |
