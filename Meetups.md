@@ -11,7 +11,7 @@
 | https://www.meetup.com/Journocoders/ |**Journocoders**. Format: a 2 hour tutorial on a web technology used in journalism. Previous topics include D3.js, Python GGPlot, and other data visualisation libraries. There are drinks and snacks but no proper'food'. | @bobbysebolao | |
 | https://www.meetup.com/LLHS-Ladies-of-London-Hacking-Society/ |**LLHS Ladies of London Hacking Society**. A cybersecurity meetup for women. Format: a 2 hour virtual lab, usually a capture the flag exercise.There is almost always food. | @dubhcait | |
 
-#Hackathons (May - July 2019)
+# Hackathons (May - July 2019)
 
 | Name | Start Date | End Date | Location | Link |
 | -------- | -------- | -------- | --------- | --------- |
