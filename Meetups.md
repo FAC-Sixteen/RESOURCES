@@ -9,7 +9,7 @@
 |https://www.meetup.com/js-monthly/ |**JS Monthly**. As it says on the tin! V popular |@charlielafosse | |
 | https://www.meetup.com/London-JavaScript-Community/ |**London Javascript Community**. Another v popular one. | @charlielafosse | |
 | https://www.meetup.com/Journocoders/ |**Journocoders**. Format: a 2 hour tutorial on a web technology used in journalism. Previous topics include D3.js, Python GGPlot, and other data visualisation libraries. There are drinks and snacks but no proper'food'. | @bobbysebolao | |
-| https://www.meetup.com/LLHS-Ladies-of-London-Hacking-Society/ |**LLHS Ladies of London Hacking Society**. A cybersecurity meetup for women. Format: a 2 hour virtual lab, usually a capture the flag exercise.There is almost always food. | @dubhcait | |https://www.meetup.com/en-AU/todo-london/ |**//TODO London**. A monthly meetup focused around working in tech and sharing stories from the tech community. Friendly and inclusive.| @aniablaziak | |
+| https://www.meetup.com/LLHS-Ladies-of-London-Hacking-Society/ |**LLHS Ladies of London Hacking Society**. A cybersecurity meetup for women. Format: a 2 hour virtual lab, usually a capture the flag exercise.There is almost always food. | @dubhcait | | https://www.meetup.com/en-AU/todo-london/ |**//TODO London**. A monthly meetup focused around working in tech and sharing stories from the tech community. Friendly and inclusive.| @aniablaziak | |
 
 # Hackathons (May - July 2019)
 
