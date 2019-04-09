@@ -17,6 +17,7 @@ Because Sharing is Caring<sup>TM</sup>.
 * [Design Bursts](https://github.com/FAC-Sixteen/RESOURCES/blob/master/design-bursts.md)
 * [External Talks](https://github.com/FAC-Sixteen/RESOURCES/blob/master/external-talks.md)
 * [Node.js](https://github.com/FAC-Sixteen/RESOURCES/blob/master/NodeJs.md)
+* [RDBMS](https://github.com/FAC-Sixteen/RESOURCES/blob/master/RDBMS.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
