@@ -18,6 +18,7 @@ Because Sharing is Caring<sup>TM</sup>.
 * [External Talks](https://github.com/FAC-Sixteen/RESOURCES/blob/master/external-talks.md)
 * [Node.js](https://github.com/FAC-Sixteen/RESOURCES/blob/master/NodeJs.md)
 * [RDBMS](https://github.com/FAC-Sixteen/RESOURCES/blob/master/RDBMS.md)
+* [Job search](https://github.com/FAC-Sixteen/RESOURCES/blob/master/job-search.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
