@@ -5,3 +5,4 @@
 | -------- | -------- | -------- |
 | https://hackmd.io/e37uTfbhQ2mDY-K-69asZg?view     | lil cheat sheet of psql commands covered in the workshop     | @tloth     |
 | https://dbdiagram.io/home	| Free SQL schema generator. Interestingly you can save this as an SQL file and open in VS Code/Atom for a ready made table using your generated schema    | Banna     |
+| https://hackmd.io/yTktI4TtQ825ZKj0x-m4qw | Good primer on Postgres and extra resources | Banna |
