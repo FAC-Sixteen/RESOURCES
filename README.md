@@ -13,12 +13,13 @@ Because Sharing is Caring<sup>TM</sup>.
 * [Git/GitHub](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Git%20%26%20GitHub.md)
 * [General design](https://github.com/FAC-Sixteen/RESOURCES/blob/master/General%20design.md)
 * [Tools/Generators](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Tools.md)
-* [Miscellaneous](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Miscellaneous.md)
 * [Design Bursts](https://github.com/FAC-Sixteen/RESOURCES/blob/master/design-bursts.md)
 * [External Talks](https://github.com/FAC-Sixteen/RESOURCES/blob/master/external-talks.md)
 * [Node.js](https://github.com/FAC-Sixteen/RESOURCES/blob/master/NodeJs.md)
 * [RDBMS](https://github.com/FAC-Sixteen/RESOURCES/blob/master/RDBMS.md)
 * [Job search](https://github.com/FAC-Sixteen/RESOURCES/blob/master/job-search.md)
+* [Meetups $ Hackathons](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Meetups.md)
+* [Miscellaneous](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Miscellaneous.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
