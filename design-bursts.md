@@ -9,5 +9,5 @@
 |   Text     | Week 4     |  Text   |   Text   |
 |   Text     | Week 5 - Colour    |   Text   |   Text   |
 |   Text     | Week 6     |  Text   |  Text   | 
-|   https://drive.google.com/file/d/1Tkg93MKc667NtEb_lHakLc9sbZjcuiSR/view?usp=sharing     | Week 7 - Typography   |   @jokosanyang   |      | 
-|   https://drive.google.com/file/d/1oaKQ57qhlNc2g4DXi_Gbw7yeMECcOSH-/view?usp=sharing     | Week 8 - Wireframes    |  @jokosanyang   |  |
+|   https://files.gitter.im/foundersandcoders/FAC16/9tqe/Design-Burst---Week-7_APRIL_2019.pdf     | Week 7 - Typography   |   @jokosanyang   |      | 
+|   https://files.gitter.im/foundersandcoders/FAC16/y9tm/FAC16---Week-8---Design-Burst-on-Wireframes.pdf     | Week 8 - Wireframes    |  @jokosanyang   |  |
