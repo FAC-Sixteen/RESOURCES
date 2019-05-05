@@ -9,5 +9,5 @@
 |   Text     | Week 4     |  Text   |   Text   |
 |   Text     | Week 5 - Colour    |   Text   |   Text   |
 |   Text     | Week 6     |  Text   |  Text   | 
-|   https://drive.google.com/file/d/1Tkg93MKc667NtEb_lHakLc9sbZjcuiSR/view?usp=sharing     | Week 7 - Typography   |   @jokosanyang   |   Text   | 
-|   https://drive.google.com/file/d/1oaKQ57qhlNc2g4DXi_Gbw7yeMECcOSH-/view?usp=sharing     | Week 8 - Wireframes    |  @jokosanyang   | Text |
+|   https://drive.google.com/file/d/1Tkg93MKc667NtEb_lHakLc9sbZjcuiSR/view?usp=sharing     | Week 7 - Typography   |   @jokosanyang   |      | 
+|   https://drive.google.com/file/d/1oaKQ57qhlNc2g4DXi_Gbw7yeMECcOSH-/view?usp=sharing     | Week 8 - Wireframes    |  @jokosanyang   |  |
