@@ -13,7 +13,7 @@ Because Sharing is Caring<sup>TM</sup>.
 * [Git/GitHub](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Git%20%26%20GitHub.md)
 * [General design](https://github.com/FAC-Sixteen/RESOURCES/blob/master/General%20design.md)
 * [Tools/Generators](https://github.com/FAC-Sixteen/RESOURCES/blob/master/Tools.md)
-* [Design Bursts](https://github.com/FAC-Sixteen/RESOURCES/blob/master/design-bursts.md)
+* [Design Bursts](https://github.com/foundersandcoders/design-bursts)
 * [External Talks](https://github.com/FAC-Sixteen/RESOURCES/blob/master/external-talks.md)
 * [Node.js](https://github.com/FAC-Sixteen/RESOURCES/blob/master/NodeJs.md)
 * [RDBMS](https://github.com/FAC-Sixteen/RESOURCES/blob/master/RDBMS.md)
